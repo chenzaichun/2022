@@ -7,8 +7,8 @@
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | [哑铃卧推](https://github.com/chenzaichun/2022/issues/5) | 240 (个) | 0 | NO |
-| [哑铃划船](https://github.com/chenzaichun/2022/issues/15) | 360 (个) | 1 | NO |
-| [早起](https://github.com/chenzaichun/2022/issues/10) | 4 (天) | 4 | YES |
+| [哑铃划船](https://github.com/chenzaichun/2022/issues/15) | 360 (个) | 0 | NO |
+| [早起](https://github.com/chenzaichun/2022/issues/10) | 5 (天) | 5 | YES |
 
 <!--END_SECTION:my_number-->
 
