@@ -8,8 +8,8 @@
  | ---- | ---- | ---- | ---- |
 | [哑铃卧推](https://github.com/chenzaichun/2022/issues/5) | 240 (个) | 0 | NO |
 | [哑铃划船](https://github.com/chenzaichun/2022/issues/15) | 360 (个) | 0 | NO |
-| [哑铃侧平举](https://github.com/chenzaichun/2022/issues/4) | 390 (个) | 1 | YES |
-| [早起](https://github.com/chenzaichun/2022/issues/10) | 5 (天) | 5 | YES |
+| [哑铃侧平举](https://github.com/chenzaichun/2022/issues/4) | 450 (个) | 1 | NO |
+| [早起](https://github.com/chenzaichun/2022/issues/10) | 6 (天) | 6 | YES |
 
 <!--END_SECTION:my_number-->
 
