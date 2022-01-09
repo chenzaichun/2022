@@ -22,6 +22,10 @@
 ## 读书
 
 <!--START_SECTION:my_read-->
+| Name | Start | Update | 
+ | ---- | ---- | ---- | 
+| [《月亮与六便士》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1008219154) | 2022-01-09 | 2022-01-09 | 
+
 <!--END_SECTION:my_read-->
 
 ## 刷剧
