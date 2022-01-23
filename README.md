@@ -11,7 +11,7 @@
 | [哑铃侧平举](https://github.com/chenzaichun/2022/issues/4) | 1800 (个) | 0 | NO |
 | [全蹲/深蹲](https://github.com/chenzaichun/2022/issues/1) | 620 (个) | 0 | NO |
 | [早起](https://github.com/chenzaichun/2022/issues/10) | 22 (天) | 9 | YES |
-| [周记](https://github.com/chenzaichun/2022/issues/9) | 2 (周) | 0 | NO |
+| [周记](https://github.com/chenzaichun/2022/issues/9) | 3 (周) | 1 | YES |
 
 <!--END_SECTION:my_number-->
 
