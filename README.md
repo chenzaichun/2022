@@ -7,10 +7,10 @@
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | [哑铃卧推](https://github.com/chenzaichun/2022/issues/5) | 1200 (个) | 0 | NO |
-| [哑铃划船](https://github.com/chenzaichun/2022/issues/15) | 1512 (个) | 1 | YES |
+| [哑铃划船](https://github.com/chenzaichun/2022/issues/15) | 1800 (个) | 1 | NO |
 | [哑铃侧平举](https://github.com/chenzaichun/2022/issues/4) | 1800 (个) | 0 | NO |
-| [全蹲/深蹲](https://github.com/chenzaichun/2022/issues/1) | 920 (个) | 1 | NO |
-| [早起](https://github.com/chenzaichun/2022/issues/10) | 24 (天) | 11 | YES |
+| [全蹲/深蹲](https://github.com/chenzaichun/2022/issues/1) | 920 (个) | 0 | NO |
+| [早起](https://github.com/chenzaichun/2022/issues/10) | 25 (天) | 12 | YES |
 | [周记](https://github.com/chenzaichun/2022/issues/9) | 3 (周) | 0 | NO |
 
 <!--END_SECTION:my_number-->
