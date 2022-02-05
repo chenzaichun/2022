@@ -28,6 +28,7 @@
 | [《月亮与六便士》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1008219154) | 2022-01-09 | 2022-01-09 | 
 | [《卡片笔记写作法》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1019785508) | 2022-01-24 | 2022-01-25 | 
 | [《1984》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1020950717) | 2022-01-25 | 2022-01-25 | 
+| [《欲罢不能：刷屏时代如何摆脱行为上瘾》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1030581966) | 2022-02-05 | 2022-02-05 | 
 
 <!--END_SECTION:my_read-->
 
