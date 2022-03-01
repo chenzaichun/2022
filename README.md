@@ -8,7 +8,7 @@
  | ---- | ---- | ---- | ---- |
 | [哑铃卧推](https://github.com/chenzaichun/2022/issues/5) | 2576 (个) | 0 | NO |
 | [哑铃划船](https://github.com/chenzaichun/2022/issues/15) | 3456 (个) | 0 | NO |
-| [哑铃侧平举](https://github.com/chenzaichun/2022/issues/4) | 3900 (个) | 0 | NO |
+| [哑铃侧平举](https://github.com/chenzaichun/2022/issues/4) | 4350 (个) | 1 | YES |
 | [全蹲/深蹲](https://github.com/chenzaichun/2022/issues/1) | 1620 (个) | 0 | NO |
 | [早起](https://github.com/chenzaichun/2022/issues/10) | 47 (天) | 1 | YES |
 | [周记](https://github.com/chenzaichun/2022/issues/9) | 3 (周) | 0 | NO |
