@@ -51,5 +51,6 @@ jobs:
           commit-message: "Replace README"
           files: README.md
           rebase: 'true'
+          force: true
           name: Chen, Zai-Chun
           email: chenzaichun@gmail.com
