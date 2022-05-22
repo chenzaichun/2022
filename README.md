@@ -30,6 +30,7 @@
 | [《卡片笔记写作法》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1019785508) | 2022-01-24 | 2022-01-25 | 
 | [《1984》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1020950717) | 2022-01-25 | 2022-01-25 | 
 | [《欲罢不能：刷屏时代如何摆脱行为上瘾》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1030581966) | 2022-02-05 | 2022-02-05 | 
+| [《哈耶克三部曲》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1133855609) | 2022-05-22 | 2022-05-22 | 
 
 <!--END_SECTION:my_read-->
 
