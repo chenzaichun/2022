@@ -6,13 +6,13 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [卷腹](https://github.com/chenzaichun/2022/issues/3) | 240 (个) | 1 | NO |
-| [哑铃卧推](https://github.com/chenzaichun/2022/issues/5) | 5344 (个) | 1 | NO |
+| [卷腹](https://github.com/chenzaichun/2022/issues/3) | 240 (个) | 0 | NO |
+| [哑铃卧推](https://github.com/chenzaichun/2022/issues/5) | 5344 (个) | 0 | NO |
 | [哑铃划船](https://github.com/chenzaichun/2022/issues/15) | 8280 (个) | 0 | NO |
 | [哑铃侧平举](https://github.com/chenzaichun/2022/issues/4) | 11380 (个) | 0 | NO |
 | [全蹲/深蹲](https://github.com/chenzaichun/2022/issues/1) | 2260 (个) | 0 | NO |
-| [早起](https://github.com/chenzaichun/2022/issues/10) | 123 (天) | 19 | YES |
-| [周记](https://github.com/chenzaichun/2022/issues/9) | 4 (周) | 1 | NO |
+| [早起](https://github.com/chenzaichun/2022/issues/10) | 124 (天) | 20 | YES |
+| [周记](https://github.com/chenzaichun/2022/issues/9) | 4 (周) | 0 | NO |
 
 <!--END_SECTION:my_number-->
 
