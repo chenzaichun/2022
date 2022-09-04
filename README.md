@@ -9,9 +9,9 @@
 | [卷腹](https://github.com/chenzaichun/2022/issues/3) | 240 (个) | 0 | NO |
 | [哑铃卧推](https://github.com/chenzaichun/2022/issues/5) | 7912 (个) | 0 | NO |
 | [哑铃划船](https://github.com/chenzaichun/2022/issues/15) | 13536 (个) | 0 | NO |
-| [哑铃侧平举](https://github.com/chenzaichun/2022/issues/4) | 18480 (个) | 1 | NO |
+| [哑铃侧平举](https://github.com/chenzaichun/2022/issues/4) | 18480 (个) | 0 | NO |
 | [全蹲/深蹲](https://github.com/chenzaichun/2022/issues/1) | 2420 (个) | 0 | NO |
-| [早起](https://github.com/chenzaichun/2022/issues/10) | 210 (天) | 4 | YES |
+| [早起](https://github.com/chenzaichun/2022/issues/10) | 211 (天) | 5 | YES |
 | [周记](https://github.com/chenzaichun/2022/issues/9) | 4 (周) | 0 | NO |
 
 <!--END_SECTION:my_number-->
