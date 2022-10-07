@@ -31,6 +31,7 @@
 | [《1984》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1020950717) | 2022-01-25 | 2022-01-25 | 
 | [《欲罢不能：刷屏时代如何摆脱行为上瘾》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1030581966) | 2022-02-05 | 2022-02-05 | 
 | [《哈耶克三部曲》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1133855609) | 2022-05-22 | 2022-05-22 | 
+| [《置身事内》](https://github.com/chenzaichun/2022/issues/8#issuecomment-1271569088) | 2022-10-07 | 2022-10-07 | 
 
 <!--END_SECTION:my_read-->
 
